@@ -1,2 +1,2 @@
 # PTT
-PTT evaluation in KD-GAN(TMM)
+PTT evaluation in KD-GAN. 
